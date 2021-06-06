@@ -2,7 +2,7 @@
 
 ## Complete So Far
 
-The GitHub organization and respective repositories for the deployment and the code in general have been created, as well as the landing page for the website application. 
+The GitHub organization and respective repositories for the deployment and the code in general have been created, as well as the landing page for the (website application)[http://143.244.158.228/]. 
 
 ![ci-badge](https://github.com/ics-software-engineering/meteor-application-template-react/workflows/ci-meteor-application-template-react/badge.svg)
 
