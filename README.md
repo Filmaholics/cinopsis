@@ -1,8 +1,10 @@
-# Cinopsis
+## Cinopsis
 
 # Complete So Far
 
 The GitHub organization and respective repositories for the deployment and the code in general have been created, as well as the landing page for the website application. 
+
+![ci-badge](https://github.com/ics-software-engineering/meteor-application-template-react/workflows/ci-meteor-application-template-react/badge.svg)
 
 # Pending
 
