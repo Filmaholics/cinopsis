@@ -1,16 +1,16 @@
-## Cinopsis
+# Cinopsis
 
-# Complete So Far
+## Complete So Far
 
 The GitHub organization and respective repositories for the deployment and the code in general have been created, as well as the landing page for the website application. 
 
 ![ci-badge](https://github.com/ics-software-engineering/meteor-application-template-react/workflows/ci-meteor-application-template-react/badge.svg)
 
-# Pending
+## Pending
 
 The functionality of the website is still pending. Pages for movie reviews, user profile, trending, genres, and other search/filter functions will be added eventually.
 
-# Roster
+## Roster
 
 1. Nhan Bui: 
    DONE:
