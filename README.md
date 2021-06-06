@@ -12,7 +12,7 @@ The functionality of the website is still pending. Pages for movie reviews, user
 
 1. Nhan Bui: 
    DONE:
-   graphic design, 
+   graphic design
    
    TO-DO:
    movie reviews page
