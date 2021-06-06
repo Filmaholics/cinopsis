@@ -8,7 +8,7 @@ The GitHub organization and respective repositories for the deployment and the c
 
 ## Pending
 
-The functionality of the website is still pending. Pages for movie reviews, user profile, trending, genres, and other search/filter functions will be added eventually.
+The functionality of the website is still pending. Pages for movie reviews, user profile, trending, genres, and other search/filter functions will be added soon.
 
 ## Roster
 
