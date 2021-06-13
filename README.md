@@ -14,7 +14,7 @@ The functionality of the website is still pending. Pages for movie reviews, user
 
 1. Nhan Bui: 
    DONE:
-   graphic design
+   graphic design,
    help deploy movie reviews page
    
    TO-DO:
@@ -22,7 +22,7 @@ The functionality of the website is still pending. Pages for movie reviews, user
    
 2. Kha Bui:
    DONE:
-   deployment 
+   deployment, 
    deploy movies reviews page
    
    TO-DO:
@@ -37,9 +37,9 @@ The functionality of the website is still pending. Pages for movie reviews, user
    
 4. Maegan Chow:
    DONE:
-   project mockups
+   project mockups,
    project reports
    
    TO-DO:
-   genres page
+   genres page,
    figure out tags for the movies
