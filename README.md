@@ -21,8 +21,8 @@ The functionality of the website is still pending. Pages for movie reviews, user
 ## Roster
 
 1. Nhan Bui: 
-[x] DONE: graphic design
-[x] New Completions: help deploy movie reviews page
+[X] DONE: graphic design
+[X] New Completions: help deploy movie reviews page
    
    TO-DO:
    continue to work on movie reviews page
