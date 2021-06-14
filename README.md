@@ -1,5 +1,13 @@
 # Cinopsis
 
+
+    Progress: What is new in the project since the last README submitted
+    Roles and responsibilities: List the team members still on the project. Under each name outline as applies:
+        New completions (if any...otherwise you can just note any progress made after previous assignment was submitted)
+        Current: What the team member is handling now.
+        Next: What the team member will handle after current task
+
+
 ## Complete So Far
 
 The GitHub organization and respective repositories for the deployment and the code in general have been created, as well as the landing page for the [website application](http://143.244.158.228/). The website now has a profile page and a movie reviews page. More functionality for these pages will be added in the future.
@@ -13,9 +21,8 @@ The functionality of the website is still pending. Pages for movie reviews, user
 ## Roster
 
 1. Nhan Bui: 
-   DONE:
-   graphic design,
-   help deploy movie reviews page
+[x] DONE: graphic design
+[x] New Completions: help deploy movie reviews page
    
    TO-DO:
    continue to work on movie reviews page
