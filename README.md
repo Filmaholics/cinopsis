@@ -44,25 +44,25 @@ Additional functionality needs to be added for the project to meet design goals.
 ## Roles and Responsibilities
 
 1. Nhan Bui: 
-- [x] DONE: graphic design
-- [x] New Completions: help deploy movie reviews page, project reports
+- [x] DONE (Previous): graphic design
+- [x] DONE (New): help deploy movie reviews page, project reports
 - [ ] TO-DO (Current): reviews page functionality 
 - [ ] TO-DO (Next): admin reviews page functionality (user & admin)
    
 2. Kha Bui:
-- [x] DONE: deployment
-- [x] New Completions: deploy movies reviews page
-- [ ] Current: reviews page functionality 
+- [x] DONE (Previous): deployment
+- [x] DONE (New): deploy movies reviews page
+- [ ] TO-DO (Current): reviews page functionality 
 - [ ] TO-DO (Next): reviews page functionality (user & admin)
    
 3. Kiran Datwani:
-- [x] DONE: GitHub organization management
-- [x] New Completions: project reports
+- [x] DONE (Previous): GitHub organization management
+- [x] DONE (New): project reports
 - [ ] TO-DO (Current): profile page
 - [ ] TO-DO (Next): extended sign-up form
    
 4. Maegan Chow:
-- [x] DONE: project mockups
-- [x] New Completions: project reports
+- [x] DONE (Previous): project mockups
+- [x] DONE (New): project reports
 - [ ] TO-DO (Current): basic browse movies page
 - [ ] TO-DO (Next): figure out tags for the movies
