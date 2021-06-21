@@ -61,7 +61,7 @@ Additional functionality needs to be added for the project to meet design goals.
 - [x] DONE (Previous): GitHub organization management
 - [x] DONE (Previous): project reports
 - [x] DONE (New): Project reports, helped with the sign up and profile page
-- [ ] TO-DO (Current): reviews page functionality 
+- [ ] TO-DO (Current): reviews page functionality, add functionality to search bar
 - [ ] TO-DO (Next): reviews page functionality (user & admin)
    
 4. Maegan Chow:
