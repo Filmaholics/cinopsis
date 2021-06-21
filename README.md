@@ -70,3 +70,54 @@ Additional functionality needs to be added for the project to meet design goals.
 - [ ] DONE (New): fix the bugs on the profile and sign up page
 - [ ] TO-DO (Current): basic browse movies page
 - [ ] TO-DO (Next): figure out tags for the movies
+
+## ASSIGNMENT 4 (6/20/21)
+
+## Progress
+
+The website is overall now in a functioning state, with a working new profile generator for each new user, admin add movie function, genre tags, and review feeds. More tweaks and additions will be made in the coming week, but those are mostly qualtiy of life updates - nice to have, but not necessary for the general function of the website. We would describe the website as still incomplete, but functional.  
+
+## Link
+
+[cinopsis-deploy](https://github.com/Filmaholics/cinopsis.deploy)
+
+## Pending
+
+Several of these are left over from last week, as they were given low-priority for this week due to their not being necessary for the core function of the website.
+
+- Improve search capabilities
+- Add more admin functions
+- Create a user master list
+- Update hearts based on reviews given on individual movie cards
+- Allow users to delete previous reviews
+- Make sure data is secure and encrypted 
+
+## Roles and Responsibilities
+
+1. Nhan Bui: 
+- [x] DONE (Previous): graphic design
+- [x] DONE (Previous): help deploy movie reviews page, project reports
+- [x] DONE (New): help with the profile and sign up page
+- [ ] TO-DO (Current): "My Reviews" page basic functionality
+- [ ] TO-DO (Next): give users the option to delete their reviews
+   
+2. Kha Bui:
+- [x] DONE (Previous): deployment
+- [x] DONE (Previous): deploy movies reviews page\
+- [X] DONE (New): add functionality to browse movie page - fix the add movie button, fix the genres tags
+- [ ] TO-DO (Current): admin functionality for adding and deleting movies
+- [ ] TO-DO (Next): user list of every user registered on the site
+   
+3. Kiran Datwani:
+- [x] DONE (Previous): GitHub organization management
+- [x] DONE (Previous): project reports
+- [x] DONE (New): Project reports, helped with the sign up and profile page
+- [ ] TO-DO (Current): "My Profile" asthetics 
+- [ ] TO-DO (Next): "Admin Contact" functionality
+   
+4. Maegan Chow:
+- [x] DONE (Previous): project mockups
+- [x] DONE (Previous): project reports
+- [X] DONE (New): fix the bugs on the profile and sign up page
+- [ ] TO-DO (Current): search bar functionality
+- [ ] TO-DO (Next): automatically updated ratings on movie cards
