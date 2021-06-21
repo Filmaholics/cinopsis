@@ -52,7 +52,7 @@ Additional functionality needs to be added for the project to meet design goals.
    
 2. Kha Bui:
 - [x] DONE (Previous): deployment
-- [x] DONE (Previous): deploy movies reviews page\
+- [x] DONE (Previous): deploy movies reviews page
 - [ ] DONE (New): add functionality to browse movie page - fix the add movie button, fix the genres tags
 - [ ] TO-DO (Current): reviews page functionality 
 - [ ] TO-DO (Next): reviews page functionality (user & admin)
@@ -103,7 +103,7 @@ Several of these are left over from last week, as they were given low-priority f
    
 2. Kha Bui:
 - [x] DONE (Previous): deployment
-- [x] DONE (Previous): deploy movies reviews page\
+- [x] DONE (Previous): deploy movies reviews page
 - [X] DONE (New): add functionality to browse movie page - fix the add movie button, fix the genres tags
 - [ ] TO-DO (Current): admin functionality for adding and deleting movies
 - [ ] TO-DO (Next): user list of every user registered on the site
