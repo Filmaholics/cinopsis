@@ -4,7 +4,7 @@
 
 ## Complete So Far
 
-The GitHub organization and respective repositories for the deployment and the code in general have been created, as well as the landing page, signup and login pages for the [website application](http://143.244.158.228/). The website now has a profile page and a movie reviews page. More functionality for these pages will be added in the future.
+The GitHub organization and respective repositories for the deployment and the code in general have been created, as well as the landing page, signup and login pages for the [website application](http://143.244.158.228/). The website now has a profile page and a movie reviews page. The application now has a working add a movie button for admin and a working profile page. The sign up page was also updated to allow users to enter more information for their profile.
 
 ![ci-badge](https://github.com/ics-software-engineering/meteor-application-template-react/workflows/ci-meteor-application-template-react/badge.svg)
 
