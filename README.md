@@ -1,6 +1,6 @@
 # Cinopsis
 
-## ASSIGNMENT 2 SECTION (6/06/21)
+## ASSIGNMENT 2 SECTION (6/20/21)
 
 ## Complete So Far
 
