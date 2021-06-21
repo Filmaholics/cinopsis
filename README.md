@@ -45,24 +45,28 @@ Additional functionality needs to be added for the project to meet design goals.
 
 1. Nhan Bui: 
 - [x] DONE (Previous): graphic design
-- [x] DONE (New): help deploy movie reviews page, project reports
-- [ ] TO-DO (Current): reviews page functionality 
+- [x] DONE (Previous): help deploy movie reviews page, project reports
+- [x] DONE (New): help with the profile and sign up page
+- [x] TO-DO (Current): reviews page functionality 
 - [ ] TO-DO (Next): admin reviews page functionality (user & admin)
    
 2. Kha Bui:
 - [x] DONE (Previous): deployment
-- [x] DONE (New): deploy movies reviews page
+- [x] DONE (Previous): deploy movies reviews page\
+- [ ] DONE (New): add functionality to browse movie page - fix the add movie button, fix the genres tags
 - [ ] TO-DO (Current): reviews page functionality 
 - [ ] TO-DO (Next): reviews page functionality (user & admin)
    
 3. Kiran Datwani:
 - [x] DONE (Previous): GitHub organization management
-- [x] DONE (New): project reports
-- [ ] TO-DO (Current): profile page
-- [ ] TO-DO (Next): extended sign-up form
+- [x] DONE (Previous): project reports
+- [x] DONE (New): Project reports, helped with the sign up and profile page
+- [ ] TO-DO (Current): reviews page functionality 
+- [ ] TO-DO (Next): reviews page functionality (user & admin)
    
 4. Maegan Chow:
 - [x] DONE (Previous): project mockups
-- [x] DONE (New): project reports
+- [x] DONE (Previous): project reports
+- [ ] DONE (New): fix the bugs on the profile and sign up page
 - [ ] TO-DO (Current): basic browse movies page
 - [ ] TO-DO (Next): figure out tags for the movies
