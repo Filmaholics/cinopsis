@@ -17,7 +17,7 @@ The functionality of the website is still pending. Pages for movie reviews, user
 1. Nhan Bui
 2. Kha Bui
 3. Kiran Datwani
-4. Maegan C how
+4. Maegan Chow
 
 ## ASSIGNMENT 3 SECTION (6/13/21)
 
