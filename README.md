@@ -98,7 +98,7 @@ Several of these are left over from last week, as they were given low-priority f
 - [x] DONE (Previous): graphic design
 - [x] DONE (Previous): help deploy movie reviews page, project reports
 - [x] DONE (New): help with the profile and sign up page
-- [ ] TO-DO (Current): "My Reviews" page basic functionality
+- [x] TO-DO (Current): "My Reviews" page basic functionality
 - [ ] TO-DO (Next): give users the option to delete their reviews
    
 2. Kha Bui:
@@ -112,7 +112,7 @@ Several of these are left over from last week, as they were given low-priority f
 - [x] DONE (Previous): GitHub organization management
 - [x] DONE (Previous): project reports
 - [x] DONE (New): Project reports, helped with the sign up and profile page
-- [ ] TO-DO (Current): "My Profile" asthetics 
+- [x] TO-DO (Current): "My Profile" asthetics 
 - [ ] TO-DO (Next): "Admin Contact" functionality
    
 4. Maegan Chow:
