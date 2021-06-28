@@ -121,3 +121,41 @@ Several of these are left over from last week, as they were given low-priority f
 - [X] DONE (New): fix the bugs on the profile and sign up page
 - [ ] TO-DO (Current): search bar functionality
 - [ ] TO-DO (Next): automatically updated ratings on movie cards
+
+## ASSIGNMENT 5 (6/27/21)
+
+## Progress
+
+Attempted to add more functionality to the website
+
+- Working search functionality
+- Implementing an edit and delete function for reviews
+- A page for users to view all of their previous reviews
+
+## Link
+
+[cinopsis-deploy](https://github.com/Filmaholics/cinopsis.deploy)
+
+## Roles and Responsibilities
+
+1. Nhan Bui: 
+- [x] DONE (Current): help deploy movie reviews page, project reports
+- [x] DONE (Current): help with the profile and sign up page
+- [x] DONE (Current): "My Reviews" page basic functionality
+- [ ] TO-DO (Current): give users the option to delete their reviews
+   
+2. Kha Bui:
+- [x] DONE (Current): updating deployment
+- [ ] TO-DO (Current): admin functionality for deleting movies
+- [ ] TO-DO (Current): user functionality for editing and deleting reviews
+   
+3. Kiran Datwani:
+- [x] DONE (Current): GitHub organization management
+- [x] DONE (Current): project reports
+- [x] DONE (Current): helped with the sign up and profile page
+- [ ] TO-DO (Current): "Admin Contact" functionality
+   
+4. Maegan Chow:
+- [x] DONE (Current): project reports
+- [ ] TO-DO (Current): search bar functionality
+
