@@ -156,15 +156,39 @@ HOW TO USE:
 
 To use our program, please view our [website](http://143.244.158.228/). 
 
-HOW TO INSTALL:
+HOW TO INSTALL & RUN:
 
 1. Please visit our [repository](https://github.com/Filmaholics/cinopsis.deploy)
 2. Download the master branch as a ZIP file
 3. In your terminal, change to the app directory
 4. Install meteor in the app directory by using the command <b>meteor npm install<b>
+5. Start the program by using the command <b>meteor npm run start<b>
+6. Visit the running program at <b>http://localhost:3000<b>
 
+## Closing Thoughts (Developer's Notes)
+   
+CHALLENGES:
+- Implementing various desired functionality proved to be extremely challenging to the point of failure, as we were unable to include every piece of functionality that we wanted to in the final version of our project; in other words, a challenge was the act of coding itself
+- Merging branches; conflicts between various group members' branches made merging their branches difficult at time
+- Deployment; occasionally, differences would be noted between local and deployed versions of the project
+- Thinking from the perspective of what is secure; for example, although we wanted to add usernames to posted reviews, we decided to make reviews anonymous until the delete review functionality was able to be implemented, which went against our instict of implementing whatever we thought would look the best
 
-## Link
+DISAPPOINTMENTS:
+   - Being unable to add functionality that we wanted to, such as the average, automatically updated rating for each movie, search bar functionality, editing and deleting reviews for users and admins
+
+## Online Repository
 
 [cinopsis-deploy](https://github.com/Filmaholics/cinopsis.deploy)
+   
+## Final Project Documentation
+
+[]()
+   
+## Release Version
+   
+[]()
+   
+## Wiki 
+   
+[]()
 
