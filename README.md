@@ -152,7 +152,16 @@ The website has been finalized, although in a lesser state than what was origina
 
 ## Technical Notes
 
+HOW TO USE: 
+
 To use our program, please view our [website](http://143.244.158.228/). 
+
+HOW TO INSTALL:
+
+1. Please visit our [repository](https://github.com/Filmaholics/cinopsis.deploy)
+2. Download the master branch as a ZIP file
+3. In your terminal, change to the app directory
+4. Install meteor in the app directory by using the command <b>meteor npm install<b>
 
 
 ## Link
