@@ -186,9 +186,9 @@ DISAPPOINTMENTS:
    
 ## Release Version
    
-[]()
+[Cinopsis Release](https://github.com/Filmaholics/cinopsis.deploy/releases/tag/V.1.00)
    
 ## Wiki 
    
-[]()
+[Cinopsis Wiki](https://github.com/Filmaholics/cinopsis/wiki)
 
