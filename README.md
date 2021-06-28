@@ -124,38 +124,38 @@ Several of these are left over from last week, as they were given low-priority f
 
 ## ASSIGNMENT 5 (6/27/21)
 
-## Progress
+## Project Status
 
-Attempted to add more functionality to the website
-
-- Working search functionality
-- Implementing an edit and delete function for reviews
-- A page for users to view all of their previous reviews
-
-## Link
-
-[cinopsis-deploy](https://github.com/Filmaholics/cinopsis.deploy)
+The website has been finalized, although in a lesser state than what was originally intended. To the developers' disappointment, the added functionality in this last week was minimal at best. Despite our team's best efforts, some things that were desired to be added were unfortunately not able to be integrated in time. 
 
 ## Roles and Responsibilities
 
 1. Nhan Bui: 
-- [x] DONE (Current): help deploy movie reviews page, project reports
-- [x] DONE (Current): help with the profile and sign up page
-- [x] DONE (Current): "My Reviews" page basic functionality
-- [ ] TO-DO (Current): give users the option to delete their reviews
+- Assisted with finalizing state of project (deciding most important additions, what could be cut, etc.) 
+- Attempted to add edit and delete review functionality
+- Worked on wiki page
    
-2. Kha Bui:
-- [x] DONE (Current): updating deployment
-- [ ] TO-DO (Current): admin functionality for deleting movies
-- [ ] TO-DO (Current): user functionality for editing and deleting reviews
+2. Kha Bui: 
+- Assisted with finalizing state of project (deciding most important additions, what could be cut, etc.) 
+- Attempted to add edit and delete review functionality
+- Worked on README and report
    
-3. Kiran Datwani:
-- [x] DONE (Current): GitHub organization management
-- [x] DONE (Current): project reports
-- [x] DONE (Current): helped with the sign up and profile page
-- [ ] TO-DO (Current): "Admin Contact" functionality
+3. Kiran Datwani: 
+- Assisted with finalizing state of project (deciding most important additions, what could be cut, etc.) 
+- Attempted to add edit and delete review functionality
+- Worked on report
    
-4. Maegan Chow:
-- [x] DONE (Current): project reports
-- [ ] TO-DO (Current): search bar functionality
+4. Maegan Chow: 
+- Assisted with finalizing state of project (deciding most important additions, what could be cut, etc.) 
+- Attempted to add edit and delete review functionality
+- Worked on README and report
+
+## Technical Notes
+
+To use our program, please view our [website](http://143.244.158.228/). 
+
+
+## Link
+
+[cinopsis-deploy](https://github.com/Filmaholics/cinopsis.deploy)
 
