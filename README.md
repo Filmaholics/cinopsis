@@ -181,6 +181,7 @@ DISAPPOINTMENTS:
 [cinopsis-deploy](https://github.com/Filmaholics/cinopsis.deploy)
    
 ## Final Project Documentation
+[Final report](https://github.com/Filmaholics/cinopsis/blob/main/Assignment%205_%20SDLC_%20Release%2C%20Archive%20Report%2C%20User%20Guide%20(Filmaholics).pdf)
 
 []()
    
