@@ -165,6 +165,9 @@ HOW TO INSTALL & RUN:
 5. Start the program by using the command <b>meteor npm run start</b>
 6. Visit the running program at <b>http://localhost:3000</b>
 
+HOW TO UNINSTALL:
+1. Delete all Cinopsis files from your folder system
+
 ## Closing Thoughts (Developer's Notes)
    
 CHALLENGES:
@@ -181,9 +184,8 @@ DISAPPOINTMENTS:
 [cinopsis-deploy](https://github.com/Filmaholics/cinopsis.deploy)
    
 ## Final Project Documentation
-[Final report](https://github.com/Filmaholics/cinopsis/blob/main/Assignment%205_%20SDLC_%20Release%2C%20Archive%20Report%2C%20User%20Guide%20(Filmaholics).pdf)
 
-[]()
+[Cinopsis Documentation](https://github.com/Filmaholics/cinopsis/blob/f1c34956716cfe27b33cae4d39b248f2f891a4a2/Assignment%205_%20SDLC_%20Release,%20Archive%20Report,%20User%20Guide%20(Filmaholics).pdf)
    
 ## Release Version
    
