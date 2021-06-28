@@ -161,9 +161,9 @@ HOW TO INSTALL & RUN:
 1. Please visit our [repository](https://github.com/Filmaholics/cinopsis.deploy)
 2. Download the master branch as a ZIP file
 3. In your terminal, change to the app directory
-4. Install meteor in the app directory by using the command <b>meteor npm install<b>
-5. Start the program by using the command <b>meteor npm run start<b>
-6. Visit the running program at <b>http://localhost:3000<b>
+4. Install meteor in the app directory by using the command <b>meteor npm install</b>
+5. Start the program by using the command <b>meteor npm run start</b>
+6. Visit the running program at <b>http://localhost:3000</b>
 
 ## Closing Thoughts (Developer's Notes)
    
